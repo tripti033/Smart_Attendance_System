@@ -28,5 +28,12 @@ Local Binary Patterns Histogram (LBPH) is a texture operator that labels pixels 
 
 LBPH is provided by the OpenCV library, supporting multiple languages, including C++ and Python, making it versatile for AI projects. You can also find an LBPH implementation in Go on [GitHub](https://github.com/kelvins/lbph).  
 
+##Video Explaination
+
+
+https://github.com/user-attachments/assets/d336ab9b-ec68-47da-b214-b93a30062515
+
+
+
 ## Contributions  
 Feel free to contribute to improving this project!
